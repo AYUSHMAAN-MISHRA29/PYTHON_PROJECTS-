@@ -13,4 +13,8 @@ elif bmi >=30:
     print("You have obesity. See a doctor")
 else:
     print("You enter invalid Numbers")
+# Example Output:
+# to calculate your body mass index first enter your mass in kg: 68
+# enter your height in metres: 1.75
+# You have good weight
 # thanks for giving your precious time
